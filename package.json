@@ -9,7 +9,7 @@
   "author": "Robert Baer",
   "license": "ISC",
   "bin": {
-    "your-command-here": "./index.js"
+    "robert-s-baer-resume": "./index.js"
   }
   
 }
